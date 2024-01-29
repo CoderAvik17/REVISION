@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  Background-color: Black;
+  
+  }
+  #heading{
+  color: pink;
+  font-size: 70px;
+  font-variant: small-caps;
+  }
+  #p1{
+  color: pink;
+  font-size: 30px;
+  border-color: red;
+  border-style: solid;
+  }
+  img{
+  width: 300px;
+  height: 300px;
+  border-color: white;
+  border-style: solid;
+  padding: 5px;
+  }
+  
+  #reason1{
+  font-size: 30px;
+  color: pink;
+  border-color: white;
+  border-style: solid;
+  }
+  button{
+   color: blue;
+   background-color: green;
+   font-style:   bold;
+   width: 10%
+  }
+  
+  
+  
